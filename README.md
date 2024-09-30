@@ -32,7 +32,7 @@ This repository is a collection of Python coding challenges that can help you pr
    git clone https://github.com/swamibhuvanesan/NoDSA-CodingPrep.git
    ```
 
-##Tags/Hashtags 🌟
+## Tags/Hashtags 🌟
    - `CampusPreparation`
    - `NoDSA`
    - `PythonCoding`
